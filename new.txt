@@ -1,0 +1,392 @@
+Hello, how's your day going?	Hey, it's going well. How about yours?
+Hi, what's your favorite color?	Hey, I like blue. What's yours?
+Hello, do you like pizza?	Hey, yes, I love pizza. Do you?
+Hi, do you have any pets?	Hey, yes, I have a dog. How about you?
+Hello, what's your favorite book?	Hey, I love "To Kill a Mockingbird". Have you read it?
+Hi, do you like to travel?	Hey, yes, I love exploring new places. What about you?
+Hello, what's your favorite movie?	Hey, I really enjoyed "Inception". Have you seen it?
+Hi, do you play any sports?	Hey, I play basketball. Do you play any sports?
+Hello, what's your favorite cuisine?	Hey, I love Italian food. How about you?
+Hi, do you like to cook?	Hey, yes, I enjoy cooking. Do you?
+Do you enjoy watching sports?	I find it quite exciting! Especially when my favorite team is playing.
+What's your favorite type of music?	I enjoy all kinds of music, but I have a soft spot for jazz.
+Have you been to any concerts recently?	Yes, I went to a rock concert last month. It was fantastic!
+Do you have any favorite artists?	I admire many artists, but Van Gogh's work always stands out to me.
+What's your favorite way to relax?	I love to unwind with a good book or a long walk in nature.
+Have you tried any new restaurants lately?	Yes, I tried a new Italian place downtown. The pasta was delicious!
+Do you like to cook?	I do! There's something very satisfying about creating your own meals.
+What's your favorite dish to prepare?	I love making homemade pizza. You can get creative with the toppings!
+Hi,Do you enjoy outdoor activities?	Hi,absolutely! Hiking, biking, camping - I love it all.
+Hi,What's your favorite season and why?	Hi,I love spring because everything feels fresh and new.
+Hi,Do you enjoy listening to music?	Hello,I absolutely love music! It's a universal language.
+What's your favorite type of food?	I'm a big fan of Italian cuisine. The flavors are so rich and diverse.
+Have you traveled recently?	Yes, I just got back from a trip to the mountains. It was breathtaking.
+Do you have any hobbies?	I enjoy painting and sketching in my free time. It's a great creative outlet.
+What's your favorite sport?	I've always been a big fan of soccer. It's such an exciting game.
+Hello,Do you like to read?	Hey,Yes, I love getting lost in a good book. It's like traveling to another world.
+What's your favorite movie?	I really enjoyed "The Shawshank Redemption". It's a powerful story.
+Do you enjoy outdoor activities?	Yes, I love hiking and camping. There's something special about being in nature.
+What's your favorite season?	I love the fall. The changing leaves are so beautiful.
+Do you like to cook?	Yes, I find it very relaxing and it's always rewarding to enjoy a meal you've made yourself.
+Hi, do you like to dance?	Hey, I love dancing! It's a great way to express myself.
+Hello, do you enjoy playing video games?	Hey, yes, I'm a big fan of video games. They're a fun way to relax.
+Hi, do you like to cook?	Hey, I enjoy cooking. It's a creative process for me.
+Hello, do you enjoy watching movies?	Hey, absolutely! I love getting lost in a good story.
+Hi, do you like to read books?	Hey, yes, I'm an avid reader. Books open up new worlds for me.
+Hello, do you enjoy playing sports?	Hey, I do. I find it's a great way to stay active and have fun.
+Hi, do you like to travel?	Hey, yes, I love exploring new places and cultures.
+Hello, do you enjoy hiking?	yes.
+Do you like to swim?	I love swimming, it's a great workout and so refreshing.
+What's your favorite type of music?	I really enjoy listening to rock music. How about you?
+Do you enjoy reading?	Yes, I love reading. It's a great way to relax and learn new things.
+What's your favorite season?	My favorite season is summer because I love the warm weather.
+Do you like to travel?	Yes, I love traveling and exploring new places.
+What's your favorite cuisine?	I really enjoy Mexican food. What about you?
+Do you enjoy hiking?	Yes, I love being outdoors and exploring nature.
+What's your favorite movie?	My favorite movie is "The Matrix". Have you seen it?
+Do you like to cook?	Yes, I find cooking to be very relaxing and rewarding.
+What's your favorite book?	My favorite book is "1984" by George Orwell.
+Do you enjoy playing video games?	Yes, I find video games to be a fun way to relax.
+What's your favorite sport?	I really enjoy watching and playing basketball.
+Do you like to dance?	Yes, I love dancing. It's a great way to express myself.
+What's your favorite color?	My favorite color is green. What's yours?
+Do you enjoy watching movies?	Yes, I love getting lost in a good story.
+Do you like to read books?	Yes, I'm an avid reader. Books open up new worlds for me.
+Do you enjoy playing sports?	Yes, I find sports to be a great way to stay active and have fun.
+Do you like to travel?	Yes, I love exploring new places and cultures.
+Do you enjoy hiking?	Yes, I love being outdoors and exploring nature.
+What's your favorite type of food?	I'm a big fan of Italian cuisine. The flavors are so rich and diverse.
+Have you traveled recently?	Yes, I just got back from a trip to the mountains. It was breathtaking.
+Hey,Do you have any hobbies?	Hi,I enjoy painting and sketching in my free time. It's a great creative outlet.
+What's your favorite sport?	I've always been a big fan of soccer. It's such an exciting game.
+Do you like to read?	Yes, I love getting lost in a good book. It's like traveling to another world.
+What's your favorite movie?	Hi,I really enjoyed "The Shawshank Redemption". It's a powerful story.
+Do you enjoy outdoor activities?	Yes, I love hiking and camping. There's something special about being in nature.
+What's your favorite season?	I love the fall. The changing leaves are so beautiful.
+Do you like to cook?	Yes, I find it very relaxing and it's always rewarding to enjoy a meal you've made yourself.
+Do you like to dance?	Yes, I love dancing! It's a great way to express myself.
+Do you enjoy playing video games?	Yes, I'm a big fan of video games. They're a fun way to relax.
+Do you like to cook?	Yes, I enjoy cooking. It's a creative process for me.
+Do you enjoy watching movies?	Absolutely! I love getting lost in a good story.
+Do you like to read books?	Yes, I'm an avid reader. Books open up new worlds for me.
+Do you enjoy playing sports?	I do. I find it's a great way to stay active and have fun.
+Do you like to travel?	Yes, I love exploring new places and cultures.
+Do you enjoy hiking?	Yes, I love being outdoors and exploring nature.
+Do you like to play chess?	Yes, I enjoy the strategic aspect of the game. Do you play?
+What's your favorite type of dessert?	I love chocolate cake. How about you?
+Do you enjoy gardening?	Yes, I find it very relaxing and rewarding. Do you have a garden?
+What's your favorite holiday?	My favorite holiday is Christmas because of the festive atmosphere.
+Do you like to draw or paint?	Yes, I enjoy expressing myself through art. Do you like to create art?
+What's your favorite type of exercise?	I enjoy yoga because it helps me relax and stay fit.
+Do you enjoy watching TV shows?	Yes, I love watching different series. Do you have a favorite show?
+What's your favorite type of tea?	I love green tea. What about you?
+Do you like to write?	Yes, I enjoy writing. It's a great way to express my thoughts.
+What's your favorite type of coffee?	I love a good cappuccino. How about you?
+Do you enjoy photography?	Yes, I love capturing beautiful moments. Do you like taking photos?
+What's your favorite type of flower?	I love roses. They're so beautiful and fragrant.
+Do you like to sing?	Yes, I enjoy singing. It's a fun way to express myself.
+What's your favorite type of bird?	I love hummingbirds. They're so small and fast.
+Do you enjoy cycling?	Yes, I love going for bike rides. It's a great way to stay active.
+What's your favorite type of tree?	I love oak trees. They're so strong and majestic.
+Do you like to bake?	Yes, I enjoy baking. There's nothing like the smell of fresh cookies.
+What's your favorite type of fruit?	I love strawberries. They're so sweet and juicy.
+Do you enjoy running?	Yes, I find it's a great way to clear my mind and stay fit.
+What's your favorite type of ice cream?	I love chocolate chip cookie dough ice cream. What's yours?
+Do you like to go fishing?	Yes, I find it very relaxing. Do you enjoy fishing?
+What's your favorite type of animal?	I love dogs. They're so loyal and friendly.
+Do you enjoy hiking?	Yes, I love exploring nature and getting a good workout.
+What's your favorite type of candy?	I love chocolate. It's so rich and delicious.
+Do you like to go camping?	Yes, I enjoy being in nature and sleeping under the stars.
+What's your favorite type of weather?	I love sunny days. They're so bright and cheerful.
+Do you enjoy playing board games?	Yes, I love the strategy and competition involved.
+What's your favorite type of car?	I love classic cars. They have so much character.
+Do you like to go shopping?	Yes, I enjoy finding new things to wear or decorate my home.
+What's your favorite type of book?	I love mystery novels. They're so suspenseful and exciting.
+No...	Do you listen to this crap?
+Do you listen to this crap?	What crap?
+What crap?	I'm kidding. You know how sometimes you just become this "persona"? And you don't know how to quit?
+I'm kidding. You know how sometimes you just become this "persona"? And you don't know how to quit?	Like my fear of wearing pastels?
+Like my fear of wearing pastels?	I'm not a...
+I'm not a...	You're not a what?
+You're not a what?	I'm not a big fan of the system. And they're always saying, "Do this, do that."
+I'm not a big fan of the system. And they're always saying, "Do this, do that."	That's what they do. They can break you down and make you feel like you're nothing. So friggin' arbitrary.
+That's what they do. They can break you down and make you feel like you're nothing. So friggin' arbitrary.	They're always making me feel like I'm less than who I am.
+They're always making me feel like I'm less than who I am.	Don't let them. You're more than what they see.
+Don't let them. You're more than what they see.	You think so?
+You think so?	Yes, I do. You should believe in yourself more.
+Yes, I do. You should believe in yourself more.	Thank you. That means a lot.
+Thank you. That means a lot.	You're welcome. Remember, you're stronger than you think.
+You're welcome. Remember, you're stronger than you think.	I'll try to remember that.
+I'll try to remember that.	Good. Never forget it.
+Good. Never forget it.	I won't. Thanks for the encouragement.
+I won't. Thanks for the encouragement.	Anytime. I'm here for you.
+Anytime. I'm here for you.	That's really nice to hear.
+That's really nice to hear.	I'm glad. Always remember, you're not alone.
+I'm glad. Always remember, you're not alone.	I'll keep that in mind.
+I'll keep that in mind.	Good. Take care of yourself.
+Good. Take care of yourself.	I will. You too.
+I will. You too.	Thank you. Goodbye for now.
+Thank you. Goodbye for now.	Goodbye. See you later.
+Why are you always so serious?	I have a lot on my mind.
+I have a lot on my mind.	Anything you want to talk about?
+Anything you want to talk about?	Not really, but thanks for asking.
+Not really, but thanks for asking.	Anytime, that's what friends are for.
+Anytime, that's what friends are for.	Yeah, I guess you're right.
+Yeah, I guess you're right.	I'm always here if you need someone to talk to.
+I'm always here if you need someone to talk to.	Thanks, I appreciate it.
+Thanks, I appreciate it.	No problem, just remember to take care of yourself too.
+No problem, just remember to take care of yourself too.	I will, thanks.
+I will, thanks.	Good, just checking in on you.
+Good, just checking in on you.	That means a lot, thank you.
+That means a lot, thank you.	Of course, we look out for each other.
+Of course, we look out for each other.	Yes, we do.
+Yes, we do.	That's what makes us a great team.
+That's what makes us a great team.	Yes, it does.
+Yes, it does.	Let's keep it that way.
+Let's keep it that way.	Agreed.
+Why do you always look so tired?	I've been staying up late studying.
+What is the capital of France?	Paris.
+Who wrote the novel '1984'?	George Orwell.
+What is the square root of 64?	8.
+Who painted the Mona Lisa?	Leonardo da Vinci.
+What is the chemical symbol for gold?	Au.
+Who is the current president of the United States?	As of my knowledge cutoff in 2021, the president is Joe Biden. Please verify from a current source.
+What is the distance from Earth to the Moon?	Approximately 238,855 miles.
+Who discovered penicillin?	Alexander Fleming.
+What is the tallest mountain in the world?	Mount Everest.
+Who composed the music for the 'Fifth Symphony'?	Ludwig van Beethoven.
+What is the capital of Spain?	Madrid.
+Who wrote 'To Kill a Mockingbird'?	Harper Lee.
+What is the square root of 144?	12.
+Who painted 'The Starry Night'?	Vincent van Gogh.
+What is the chemical symbol for silver?	Ag.
+What is the distance from Earth to Mars?	Approximately 140 million miles, but it varies as both Earth and Mars orbit the Sun.
+Who discovered gravity?	Sir Isaac Newton.
+What is the longest river in the world?	The Nile River.
+Who composed the 'Moonlight Sonata'?	Ludwig van Beethoven.
+What is the speed of light?	Approximately 299,792 kilometers per second in a vacuum.
+Who invented the telephone?	Alexander Graham Bell.
+What is the largest ocean in the world?	The Pacific Ocean.
+Who is the author of 'Pride and Prejudice'?	Jane Austen.
+What is the cube root of 27?	3.
+Who painted 'The Last Supper'?	Leonardo da Vinci.
+What is the chemical symbol for hydrogen?	H.
+What is the distance from Earth to the Sun?	Approximately 93 million miles.
+Who discovered electricity?	Benjamin Franklin is often credited with discovering electricity, but electricity was known before his time.
+What is the highest waterfall in the world?	Angel Falls.
+Who composed the 'Four Seasons'?	Antonio Vivaldi.
+What is the capital of Canada?	Ottawa.
+Who wrote 'The Great Gatsby'?	F. Scott Fitzgerald.
+What is the square root of 225?	15.
+Who painted 'Guernica'?	Pablo Picasso.
+What is the chemical symbol for oxygen?	O.
+What is the distance from Earth to Jupiter?	Approximately 484 million miles, but it varies as both Earth and Jupiter orbit the Sun.
+Hi,Who discovered the structure of DNA?	Hey,James Watson and Francis Crick.
+What is the largest desert in the world?	The Sahara Desert.
+Who composed the 'Brandenburg Concertos'?	Hi,Johann Sebastian Bach.
+Hello,What is the boiling point of water at sea level?	100 degrees Celsius or 212 degrees Fahrenheit.
+Who invented the light bulb?	Thomas Edison.
+What is the deepest part of the ocean?	The Mariana Trench.
+Who is the author of 'Moby Dick'?	Herman Melville.
+Hi,What is the cube root of 125?	Hello,it is 5.
+Who painted 'The Scream'?	Edvard Munch.
+What is the chemical symbol for iron?	Fe.
+What is the distance from Earth to Venus?	Approximately 25 million miles, but it varies as both Earth and Venus orbit the Sun.
+Who discovered the law of motion?	Sir Isaac Newton.
+What is the largest lake in the world?	The Caspian Sea.
+Who composed the 'Nutcracker Suite'?	Pyotr Ilyich Tchaikovsky.
+What is the capital of Germany?	Berlin.
+Who wrote 'War and Peace'?	Leo Tolstoy.
+What is the square root of 256?	16.
+Who painted 'The Persistence of Memory'?	Salvador Dalí.
+What is the chemical symbol for nitrogen?	N.
+What is the distance from Earth to Saturn?	Approximately 746 million miles, but it varies as both Earth and Saturn orbit the Sun.
+Who discovered the theory of relativity?	Albert Einstein.
+What is the largest country in the world by area?	Russia.
+Who composed the 'Ride of the Valkyries'?	Richard Wagner.
+What is the freezing point of water at sea level?	0 degrees Celsius or 32 degrees Fahrenheit.
+Who invented the television?	Philo Farnsworth.
+What is the largest continent in the world?	Asia.
+Who is the author of 'The Odyssey'?	Homer.
+What is the cube root of 64?	4.
+Who painted 'The Birth of Venus'?	Sandro Botticelli.
+What is the chemical symbol for carbon?	C.
+What is the distance from Earth to Mercury?	Approximately 48 million miles, but it varies as both Earth and Mercury orbit the Sun.
+Who discovered the circulation of blood?	William Harvey.
+What is the largest island in the world?	Greenland.
+Who composed the 'Eine kleine Nachtmusik'?	Wolfgang Amadeus Mozart.
+What is the capital of Italy?	Rome.
+Who wrote 'The Catcher in the Rye'?	J.D. Salinger.
+What is the square root of 289?	17.
+Who painted 'Girl with a Pearl Earring'?	Johannes Vermeer.
+What is the chemical symbol for helium?	He.
+What is the distance from Earth to Uranus?	Approximately 1.6 billion miles, but it varies as both Earth and Uranus orbit the Sun.
+Who discovered the laws of thermodynamics?	Rudolf Clausius and William Thomson, 1st Baron Kelvin.
+What is the largest rainforest in the world?	The Amazon Rainforest.
+Who composed the 'Boléro'?	Maurice Ravel.
+What is the average human body temperature in Celsius?	Approximately 37 degrees Celsius.
+Who invented the computer?	Charles Babbage is often considered the "father of the computer".
+What is the smallest country in the world?	Vatican City.
+Who is the author of 'The Iliad'?	Homer.
+What is the cube root of 216?	6.
+Who painted 'American Gothic'?	Grant Wood.
+What is the chemical symbol for aluminum?	Al.
+What is the distance from Earth to Neptune?	Approximately 2.7 billion miles, but it varies as both Earth and Neptune orbit the Sun.
+Who discovered the theory of relativity?	Albert Einstein.
+What is the largest country in the world by area?	Russia.
+Who composed the 'Ride of the Valkyries'?	Richard Wagner.
+What is the capital of Australia?	Canberra.
+Who wrote 'To Kill a Mockingbird'?	Harper Lee.
+What is the square root of 144?	12.
+Who painted 'The Starry Night'?	Vincent van Gogh.
+What is the chemical symbol for silver?	Ag.
+What is the distance from Earth to Mars?	Approximately 140 million miles, but it varies as both Earth and Mars orbit the Sun.
+Who discovered gravity?	Sir Isaac Newton.
+What is the longest river in the world?	The Nile River.
+Who composed the 'Moonlight Sonata'?	Ludwig van Beethoven.
+What is the speed of light?	Approximately 299,792 kilometers per second in a vacuum.
+Who invented the light bulb?	Thomas Edison.
+What is the deepest part of the ocean?	The Mariana Trench.
+Who is the author of 'Pride and Prejudice'?	Jane Austen.
+What is the cube root of 27?	3.
+Who painted 'The Last Supper'?	Leonardo da Vinci.
+What is the chemical symbol for hydrogen?	H.
+What is the distance from Earth to the Sun?	Approximately 93 million miles.
+Who discovered the circulation of blood?	William Harvey.
+What is the largest lake in the world?	The Caspian Sea.
+Who composed the 'Eine kleine Nachtmusik'?	Wolfgang Amadeus Mozart.
+What is the capital of Brazil?	Brasília.
+Who wrote 'The Old Man and the Sea'?	Ernest Hemingway.
+What is the square root of 169?	13.
+Who painted 'The Scream'?	Edvard Munch.
+What is the chemical symbol for gold?	Au.
+What is the distance from Earth to Jupiter?	Approximately 484 million miles, but it varies as both Earth and Jupiter orbit the Sun.
+Who discovered the structure of DNA?	James Watson and Francis Crick.
+What is the largest desert in the world?	The Sahara Desert.
+Who composed the 'Four Seasons'?	Antonio Vivaldi.
+What is the average human body temperature in Fahrenheit?	Approximately 98.6 degrees Fahrenheit.
+Who invented the internet?	The internet was developed by many people over many years, with key contributions from Robert E. Kahn and Vinton Cerf.
+What is the largest moon in our solar system?	Ganymede, a moon of Jupiter.
+Who is the author of 'Moby Dick'?	Herman Melville.
+What is the cube root of 64?	4.
+Who painted 'The Birth of Venus'?	Sandro Botticelli.
+What is the chemical symbol for carbon?	C.
+What is the distance from Earth to Venus?	Approximately 25 million miles, but it varies as both Earth and Venus orbit the Sun.
+Who discovered the laws of motion?	Sir Isaac Newton.
+What is the highest waterfall in the world?	Angel Falls.
+Who composed the 'Nutcracker Suite'?	Pyotr Ilyich Tchaikovsky.
+What is the capital of Russia?	Moscow.
+Who wrote 'The Adventures of Huckleberry Finn'?	Mark Twain.
+What is the square root of 196?	14.
+Who painted 'The Arnolfini Wedding'?	Jan van Eyck.
+What is the chemical symbol for zinc?	Zn.
+What is the distance from Earth to the Andromeda Galaxy?	Approximately 2.537 million light-years.
+Who discovered the laws of genetics?	Gregor Mendel.
+What is the largest volcano in the world?	Mauna Loa.
+Who composed the 'Symphony No. 1'?	Johannes Brahms.
+What is the average lifespan of a house cat?	Approximately 15 years, but it can vary.
+Who invented the airplane?	The Wright brothers, Orville and Wilbur.
+What is the largest dwarf planet in our solar system?	Pluto.
+Who is the author of 'The Divine Comedy'?	Dante Alighieri.
+What is the cube root of 125?	5.
+Who painted 'The Hay Wain'?	John Constable.
+What is the chemical symbol for chlorine?	Cl.
+What is the distance from Earth to the Large Magellanic Cloud?	Approximately 163,000 light-years.
+Who discovered the speed of light?	Ole Rømer is often credited with the first measurement of the speed of light.
+What is the largest bay in the world?	The Bay of Bengal.
+Who composed the 'Symphony No. 2'?	Johannes Brahms.
+What is the capital of China?	Beijing.
+Who wrote 'Moby-Dick'?	Herman Melville.
+What is the square root of 225?	15.
+Who painted 'The Garden of Earthly Delights'?	Hieronymus Bosch.
+What is the chemical symbol for magnesium?	Mg.
+What is the distance from Earth to the Orion Nebula?	Approximately 1,344 light-years.
+Who discovered the atomic nucleus?	Ernest Rutherford.
+What is the largest peninsula in the world?	The Arabian Peninsula.
+Who composed the 'Symphony No. 3'?	Johannes Brahms.
+What is the average lifespan of a dog?	It varies greatly by breed, but generally between 10 and 13 years.
+Who invented the telephone?	Alexander Graham Bell.
+What is the largest asteroid in our solar system?	Ceres.
+Who is the author of 'The Metamorphosis'?	Franz Kafka.
+What is the cube root of 1000?	10.
+Who painted 'The Fighting Temeraire'?	J. M. W. Turner.
+What is the chemical symbol for mercury?	Hg.
+What is the distance from Earth to the Virgo Cluster?	Approximately 53.8 million light-years.
+Who discovered the law of electromagnetic induction?	Michael Faraday.
+What is the largest gulf in the world?	The Gulf of Mexico.
+Who composed the 'Symphony No. 4'?	Johannes Brahms.
+What is the capital of Japan?	Tokyo.
+Who wrote 'The Grapes of Wrath'?	John Steinbeck.
+What is the square root of 256?	16.
+Who painted 'The Ambassadors'?	Hans Holbein the Younger.
+What is the chemical symbol for potassium?	K.
+What is the distance from Earth to the Triangulum Galaxy?	Approximately 2.73 million light-years.
+Who discovered the law of photoelectric effect?	Albert Einstein.
+What is the largest glacier in the world?	The Lambert-Fisher Glacier in Antarctica.
+Who composed the 'Symphony No. 5'?	Johannes Brahms.
+What is the average lifespan of a horse?	Approximately 25 to 30 years.
+Who invented the car?	Karl Benz is often credited with inventing the first automobile.
+What is the largest planet in our solar system?	Jupiter.
+Who is the author of 'The Canterbury Tales'?	Geoffrey Chaucer.
+What is the cube root of 729?	9.
+Who painted 'The Arnolfini Portrait'?	Jan van Eyck.
+What is the chemical symbol for lead?	Pb.
+What is the distance from Earth to the Whirlpool Galaxy?	Approximately 23 million light-years.
+Who discovered the law of conservation of energy?	Julius Robert von Mayer, James Prescott Joule, Hermann von Helmholtz, and others independently made discoveries leading to the law.
+What is the largest island in the world?	Greenland.
+Who composed the 'Symphony No. 6'?	Johannes Brahms.
+When did Beyonce start becoming popular?	In the late 1990s.
+What areas did Beyonce compete in when she was growing up?	Singing and dancing.
+When did Beyonce leave Destiny's Child and become a solo singer?	2003.
+In what city and state did Beyonce grow up?	Houston, Texas.
+In which decade did Beyonce become famous?	Late 1990s.
+In what R&B group was she the lead singer?	Destiny's Child.
+What album made her a worldwide known artist?	Dangerously in Love.
+Who managed the Destiny's Child group?	Mathew Knowles.
+When did Beyoncé rise to fame?	Late 1990s.
+What role did Beyoncé have in Destiny's Child?	Lead singer.
+What was the first album Beyoncé released as a solo artist?	Dangerously in Love.
+When did Beyoncé release Dangerously in Love?	2003.
+How many Grammy awards did Beyoncé win for her first solo album?	Five.
+What was Beyoncé's role in Destiny's Child?	Lead singer.
+What was the name of Beyoncé's first solo album?	Dangerously in Love.
+After her second solo album, what other entertainment venture did Beyonce explore?	Acting.
+Which artist did Beyonce marry?	Jay Z.
+To set the record for Grammys, how many did Beyonce win?	Six.
+For what movie did Beyonce receive her first Golden Globe nomination?	Dreamgirls.
+When did Beyonce take a hiatus in her career and take control of her management?	2010.
+Which album was darker in tone from her previous work?	Beyoncé.
+After what movie portraying Etta James, did Beyonce create Sasha Fierce?	Cadillac Records.
+When did Destiny's Child end their group act?	June 2005.
+What was the name of Beyoncé's second solo album?	B'Day.
+What was Beyoncé's first acting job, in 2006?	Dreamgirls.
+Who is Beyoncé married to?	Jay Z.
+What is the name of Beyoncé's alter-ego?	Sasha Fierce.
+In her music, what are some recurring elements in them?	Love, relationships, and monogamy.
+Time magazine named her one of the most 100 what people of the century?	Influential.
+Which magazine declared her the most dominant woman musician?	Forbes.
+In which decade did the Recording Industry Association of America recognize Beyonce as the The Top Certified Artist?	2000s.
+What magazine rated Beyonce as the most powerful female musician in 2015?	Forbes.
+How did Beyonce describe herself as a feminist?	Modern-day feminist.
+In which years did Time rate Beyonce in the 100 most influential people in the world?	2013 and 2014.
+How many records has Beyonce sold in her 19 year career?	118 million.
+How many records did Beyoncé sell as part of Destiny's Child?	60 million.
+After leaving Destiny's Child, how many records did Beyoncé release under her own name?	118 million.
+How many Grammy awards has Beyoncé won?	20.
+What magazine named Beyoncé as the most powerful female musician for 2015?	Forbes.
+Beyonce's younger sibling also sang with her in what band?	Destiny's Child.
+Where did Beyonce get her name from?	Her mother's maiden name.
+What race was Beyonce's father?	African-American.
+Beyonce's childhood home believed in what religion?	Methodist.
+Beyonce's father worked as a sales manager for what company?	Xerox.
+Beyonce's mother worked in what industry?	Hairdresser and salon owner.
+What younger sister of Beyonce also appeared in Destiny's Child?	Solange.
+Beyonce is a descendent of what Arcadian leader?	Joseph Broussard.
+What company did Beyoncé's father work for when she was a child?	Xerox.
+What did Beyoncé's mother own when Beyoncé was a child?	Salon.
+What is the name of Beyoncé's younger sister?	Solange.
+Beyoncé is a descendant of which Acadian leader?	Joseph Broussard.
+Beyoncé was raised in what religion?	Methodist.
+What town did Beyonce go to school in?	Fredericksburg.
+Who was the first person to notice Beyonce's singing ability?	Darlette Johnson.
+Beyonce moved to which town after she left her first elementary school?	Houston.
